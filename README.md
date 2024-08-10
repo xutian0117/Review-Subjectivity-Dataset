@@ -23,6 +23,11 @@ The dataset is creatively compiled to include a diverse range of product types, 
 ## Contributing
 Contributions to enhance the dataset or improve the modeling techniques are welcome. Please feel free to submit pull requests or open issues to discuss potential improvements.
 
+## Contact
+
+### Name: Tian Xu 
+### GitHub: github.comtianxu0117
+### Email: tianx0117@gmail.com
 ---
 
 Happy Analyzing!
